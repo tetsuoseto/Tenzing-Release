@@ -9,7 +9,7 @@ assignees: ''
 
 Remember, an issue is not the place to ask questions. You can use [#owasp_pdf_users](https://owasp.slack.com/archives/C07606V664W) for that.
 
-#### What's the version of owasp_pdf executable you are using?
+#### What's the version of tenzing executable you are using?
 ----------------------------------------
 **Tenzing Version:** 
 ```
