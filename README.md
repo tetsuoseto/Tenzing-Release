@@ -19,6 +19,7 @@ Linux:a3718f550b73f3b4f3d0b18c91ffdd8f48046f730dbe3622279155132baa0e39  tenzing
 - linux.zip: https://github.com/tetsuoseto/Tenzing/tree/main/zip
 - project plugins: https://github.com/tetsuoseto/Tenzing/tree/main/docgen
 - pdf build environment examples w/github workflow:
-1. https://github.com/tetsuoseto/Tenzing-GOV
-2. https://github.com/tetsuoseto/Tenzing-AISVS
+1. https://github.com/tetsuoseto/Tenzing-ZZZ
+2. https://github.com/tetsuoseto/Tenzing-GOV
+3. https://github.com/tetsuoseto/Tenzing-AISVS
 - arxiv: https://github.com/tetsuoseto/Tenzing-Arxiv
