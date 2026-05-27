@@ -3,7 +3,7 @@
 darwin.zip is stored on this repository under zip/darwin.zip.
 linux.zip is stored on https://github.com/tetsuoseto/Tenzing/ under zip directory.
 
-## Executable shasum
+## Shasum of the latest executables
 
 ```
 $ shasum -a 256 tenzing
