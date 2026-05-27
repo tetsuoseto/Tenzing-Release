@@ -24,6 +24,6 @@ Linux:a3718f550b73f3b4f3d0b18c91ffdd8f48046f730dbe3622279155132baa0e39  tenzing
 3. https://github.com/tetsuoseto/Tenzing-AISVS
 - arxiv: https://github.com/tetsuoseto/Tenzing-Arxiv
 
-## Social Media
+## Social media
 
 - tenzing5.slack.com -- to receive an invitation to this slack workspace, pls send your email address to one of existing members or admin ( setotet@gmail.com ) with subject: **Slack Invitation Request**. Thanks for your interest!
