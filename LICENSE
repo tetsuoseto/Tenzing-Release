@@ -48,11 +48,26 @@ https://fonts.google.com/specimen/Poppins/license
 Barlow under SIL Open Font License
 https://fonts.google.com/specimen/Barlow/license
 
-(2) Aozara Mincho under IPA Font License Agreement v1.0
+Aozara Mincho under IPA Font License Agreement v1.0
 AozoraMincho-bold.ttf and AozoraMinchoRegular.ttf
 https://github.com/langsci/174/blob/master/aozoramincho-readme-ttf/licence.txt
 
-LibreOffice Hyphenation Dictionaries
+Busra Font under SIL Open Font License
+https://software.sil.org/busra/
+https://software.sil.org/busra/download/
+
+Saysettha under SIL Open Font License
+https://laoscript.net/download/
+https://openfontlicense.org/open-font-license-official-text/
+
+Khmer Dictionary under MIT License
+------------------
+https://github.com/Sovichea/khmer_segmenter/blob/main/LICENSE
+
+LibreOffice Hyphenation Dictionaries under GNU Public License/Mozilla Public License/CC BY-SA 4.0
 ------------------
 https://github.com/LibreOffice/dictionaries
-https://www.libreoffice.org/about-us/licenses
+https://www.libreoffice.org/who-are-we/
+GNU Public License: https://www.gnu.org/licenses/lgpl-3.0.html
+Mozilla Public License: https://www.mozilla.org/en-US/MPL/2.0/
+C BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/

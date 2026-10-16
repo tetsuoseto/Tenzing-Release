@@ -7,8 +7,8 @@ linux.zip is stored on https://github.com/tetsuoseto/Tenzing/ under zip director
 
 ```
 $ shasum -a 256 tenzing
-Darwin:fdcfe6c117cce76a0949b638fce13e0de9d913b8688321386e263f2aa3c273ca  tenzing
-Linux:a3718f550b73f3b4f3d0b18c91ffdd8f48046f730dbe3622279155132baa0e39  tenzing
+Darwin:e0ce6a912c89d83c5a9e394a6a9f1659fd186cc5d7831a27d8438204d4d445ad  tenzing
+Linux:99c0ffe6b8a96b2edfce6a4d5f76605fb1e29b5183246d74e0cf55d0ebe3ada0  tenzing
 ```
 
 ## Tenzing file locations:
@@ -22,6 +22,7 @@ Linux:a3718f550b73f3b4f3d0b18c91ffdd8f48046f730dbe3622279155132baa0e39  tenzing
 1. https://github.com/tetsuoseto/Tenzing-ZZZ
 2. https://github.com/tetsuoseto/Tenzing-GOV
 3. https://github.com/tetsuoseto/Tenzing-AISVS
+4. https://github.com/tetsuoseto/Tenzing-COE
 - arxiv: https://github.com/tetsuoseto/Tenzing-Arxiv
 
 ## Social media
